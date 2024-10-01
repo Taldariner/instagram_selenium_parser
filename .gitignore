@@ -1,0 +1,6 @@
+__venv__/
+.venv/
+__pycache__/
+
+*.exe
+*.xlsx
